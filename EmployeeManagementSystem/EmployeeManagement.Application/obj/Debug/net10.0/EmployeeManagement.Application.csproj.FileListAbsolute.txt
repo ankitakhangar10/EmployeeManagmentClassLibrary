@@ -1,0 +1,15 @@
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.AssemblyInfo.cs
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net10.0\EmployeeManagement.Application.deps.json
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net10.0\EmployeeManagement.Application.dll
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net10.0\EmployeeManagement.Application.pdb
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net10.0\EmployeeManagement.Core.dll
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\bin\Debug\net10.0\EmployeeManagement.Core.pdb
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\Employee.16DA35CB.Up2Date
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.dll
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\refint\EmployeeManagement.Application.dll
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\EmployeeManagement.Application.pdb
+C:\projects\EmployeeManagment\EmployeeManagementSystem\EmployeeManagement.Application\obj\Debug\net10.0\ref\EmployeeManagement.Application.dll
