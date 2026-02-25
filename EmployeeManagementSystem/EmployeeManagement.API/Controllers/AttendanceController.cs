@@ -16,6 +16,8 @@ namespace EmployeeManagement.API.Controllers
         {
             _attendanceService = attendanceService;
         }
+
+        [Authorize]
         [HttpGet("GetAllAttendanceList")]
         public async Task<IActionResult> GetAll()
         {
